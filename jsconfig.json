@@ -1,0 +1,10 @@
+
+	{
+		"compilerOptions": {
+		  "module": "none",
+		  "target": "es3",
+		  "noLib": true,
+		  "checkJs": true
+		}
+	}
+	
